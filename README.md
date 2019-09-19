@@ -17,7 +17,8 @@ Depois que baixar o repositório, faça o seguinte para instalar o ambiente na s
  ~~~
  4. Instale as dependências
  ~~~shell
- pip install django
+ apt install postgresql-server-dev-all
+ pip install -r requirements.txt
  ~~~
  5. Execute as migrations
  ~~~shell
