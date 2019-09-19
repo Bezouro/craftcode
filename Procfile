@@ -1,1 +1,1 @@
-web: "python manage.py startserver"
+web: "python webapp/manage.py startserver"
