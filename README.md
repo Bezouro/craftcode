@@ -24,4 +24,4 @@ Depois que baixar o repositório, faça o seguinte para instalar o ambiente na s
  cd 
  ~~~
 
-## Iniciar o app
+## Iniciar o app (todas as vezes que for iniciar a aplicação localmente)
