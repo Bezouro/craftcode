@@ -1,7 +1,7 @@
-#Craftcode website
+# Craftcode website
 
 
-##Instalação (uma única vez)
+## Instalação (uma única vez)
 Depois que baixar o repositório, faça o seguinte para instalar o ambiente na sua máquina
  1. Primeiro instale o virtualenv
  ~~~shell
@@ -21,7 +21,7 @@ Depois que baixar o repositório, faça o seguinte para instalar o ambiente na s
  ~~~
  5. Execute as migrations
  ~~~shell
- pip install django
+ cd 
  ~~~
 
-##Iniciar o app
+## Iniciar o app
